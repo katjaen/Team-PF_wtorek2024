@@ -104,6 +104,7 @@ nav ul li:first-of-type a {
 
 .slider {
   position: relative;
+  z-index: -1;
   width: 100%;
   margin: 0 auto;
   overflow: hidden;
