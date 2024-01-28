@@ -66,6 +66,7 @@ nav ul li a {
   background-color: grey;
   display: none;
   border-radius: 5px;
+  z-index: 1;
 }
 
 .dropdownList li {
@@ -104,8 +105,8 @@ nav ul li:first-of-type a {
 
 .slider {
   position: relative;
-  z-index: -1;
   width: 100%;
+  height: 500px;
   margin: 0 auto;
   overflow: hidden;
 }
