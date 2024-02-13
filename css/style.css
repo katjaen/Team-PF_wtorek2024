@@ -69,6 +69,10 @@ header {
 	display: flex;
 	align-items: center;
 }
+.footer-menu {
+	display: flex;
+	flex-direction: column;
+}
 /* brand*/
 
 .brand a,
